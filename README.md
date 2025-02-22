@@ -5,7 +5,7 @@
 - 🏝️ I'm a software student from Brazil.
 - :school: I'm studying Systems Analysis and Development at IFSP.
 
-[LinkedIn](https://www.linkedin.com/in/kpersike) | 
+[LinkedIn](https://www.linkedin.com/in/kpersike) | [Instagram](https://www.instagram.com/kpersike)
 
 <!-- <div style="display: inline_block"> -->
 <div align="center">
